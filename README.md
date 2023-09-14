@@ -44,4 +44,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indula-perera&show_icons=true&locale=en" alt="indula-perera" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indula-perera&" alt="indula-perera" /></p>
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=indula-perera&](https://github-readme-streak-stats.herokuapp.com/?user=indula-perera)https://github-readme-streak-stats.herokuapp.com/?user=indula-perera" alt="indula-perera" /></p>
